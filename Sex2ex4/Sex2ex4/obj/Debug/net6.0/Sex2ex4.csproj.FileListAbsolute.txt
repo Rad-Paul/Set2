@@ -1,0 +1,15 @@
+D:\coding\repos\practice\Set2\Sex2ex4\Sex2ex4\bin\Debug\net6.0\Sex2ex4.exe
+D:\coding\repos\practice\Set2\Sex2ex4\Sex2ex4\bin\Debug\net6.0\Sex2ex4.deps.json
+D:\coding\repos\practice\Set2\Sex2ex4\Sex2ex4\bin\Debug\net6.0\Sex2ex4.runtimeconfig.json
+D:\coding\repos\practice\Set2\Sex2ex4\Sex2ex4\bin\Debug\net6.0\Sex2ex4.dll
+D:\coding\repos\practice\Set2\Sex2ex4\Sex2ex4\bin\Debug\net6.0\Sex2ex4.pdb
+D:\coding\repos\practice\Set2\Sex2ex4\Sex2ex4\obj\Debug\net6.0\Sex2ex4.csproj.AssemblyReference.cache
+D:\coding\repos\practice\Set2\Sex2ex4\Sex2ex4\obj\Debug\net6.0\Sex2ex4.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\repos\practice\Set2\Sex2ex4\Sex2ex4\obj\Debug\net6.0\Sex2ex4.AssemblyInfoInputs.cache
+D:\coding\repos\practice\Set2\Sex2ex4\Sex2ex4\obj\Debug\net6.0\Sex2ex4.AssemblyInfo.cs
+D:\coding\repos\practice\Set2\Sex2ex4\Sex2ex4\obj\Debug\net6.0\Sex2ex4.csproj.CoreCompileInputs.cache
+D:\coding\repos\practice\Set2\Sex2ex4\Sex2ex4\obj\Debug\net6.0\Sex2ex4.dll
+D:\coding\repos\practice\Set2\Sex2ex4\Sex2ex4\obj\Debug\net6.0\refint\Sex2ex4.dll
+D:\coding\repos\practice\Set2\Sex2ex4\Sex2ex4\obj\Debug\net6.0\Sex2ex4.pdb
+D:\coding\repos\practice\Set2\Sex2ex4\Sex2ex4\obj\Debug\net6.0\Sex2ex4.genruntimeconfig.cache
+D:\coding\repos\practice\Set2\Sex2ex4\Sex2ex4\obj\Debug\net6.0\ref\Sex2ex4.dll
