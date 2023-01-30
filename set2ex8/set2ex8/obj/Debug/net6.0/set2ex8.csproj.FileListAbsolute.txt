@@ -1,0 +1,15 @@
+D:\coding\repos\practice\Set2\set2ex8\set2ex8\bin\Debug\net6.0\set2ex8.exe
+D:\coding\repos\practice\Set2\set2ex8\set2ex8\bin\Debug\net6.0\set2ex8.deps.json
+D:\coding\repos\practice\Set2\set2ex8\set2ex8\bin\Debug\net6.0\set2ex8.runtimeconfig.json
+D:\coding\repos\practice\Set2\set2ex8\set2ex8\bin\Debug\net6.0\set2ex8.dll
+D:\coding\repos\practice\Set2\set2ex8\set2ex8\bin\Debug\net6.0\set2ex8.pdb
+D:\coding\repos\practice\Set2\set2ex8\set2ex8\obj\Debug\net6.0\set2ex8.csproj.AssemblyReference.cache
+D:\coding\repos\practice\Set2\set2ex8\set2ex8\obj\Debug\net6.0\set2ex8.GeneratedMSBuildEditorConfig.editorconfig
+D:\coding\repos\practice\Set2\set2ex8\set2ex8\obj\Debug\net6.0\set2ex8.AssemblyInfoInputs.cache
+D:\coding\repos\practice\Set2\set2ex8\set2ex8\obj\Debug\net6.0\set2ex8.AssemblyInfo.cs
+D:\coding\repos\practice\Set2\set2ex8\set2ex8\obj\Debug\net6.0\set2ex8.csproj.CoreCompileInputs.cache
+D:\coding\repos\practice\Set2\set2ex8\set2ex8\obj\Debug\net6.0\set2ex8.dll
+D:\coding\repos\practice\Set2\set2ex8\set2ex8\obj\Debug\net6.0\refint\set2ex8.dll
+D:\coding\repos\practice\Set2\set2ex8\set2ex8\obj\Debug\net6.0\set2ex8.pdb
+D:\coding\repos\practice\Set2\set2ex8\set2ex8\obj\Debug\net6.0\set2ex8.genruntimeconfig.cache
+D:\coding\repos\practice\Set2\set2ex8\set2ex8\obj\Debug\net6.0\ref\set2ex8.dll
